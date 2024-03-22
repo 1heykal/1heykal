@@ -1,8 +1,4 @@
-<div align="center">
-  <img width="80%" src="https://c4.wallpaperflare.com/wallpaper/125/421/288/left-and-right-brain-hd-brain-left-and-right-illustration-wallpaper-preview.jpg"  />
-</div>
 
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/1heykal" target="_blank">
