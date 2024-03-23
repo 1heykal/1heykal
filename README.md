@@ -1,15 +1,5 @@
 
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/1heykal" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="oneheykal@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
-
-###
 
 <h1 align="center">hey there 👋</h1>
 
@@ -20,6 +10,18 @@
 ###
 
 <h4 align="left">I'm Osama Heykal from Egypt<br><br>- 🔭 I’m working as Full-Stack developer<br>- 📚 I'm currently learning .NET Core Stack and Angular.<br>- ⚡ In my free time I like to read books and write novels.</h4>
+
+###
+
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/1heykal" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="oneheykal@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
 
 ###
 
